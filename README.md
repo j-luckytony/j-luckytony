@@ -3,9 +3,12 @@
 🚀 **Full Stack Engineer** | 🦊 **Passionate about AI & Startups** | ⚛️ **React Enthusiast** | ☁️ **AWS Practitioner**  
 
 ---
+![Fail Fast, Learn Faster](banner.png)
 
 ### 🔥 About Me  
-Passionate about **building scalable applications**, **AI-driven solutions**, and **cloud architectures**.  
+Passionate about **building scalable applications**, **AI-driven solutions**, and **cloud architectures**.
+
+Like a fox—**agile, adaptive, and always thinking ahead**—I navigate complex systems, crafting smart and efficient solutions.  
 
 📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-l-perper)  
