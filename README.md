@@ -1,6 +1,6 @@
 # Hi there, I'm Tony! 👋  
 
-🚀 **Senior Full Stack Product Engineer** | 🦊 **AI & Interactive Systems** | ⚛️ **React & TypeScript** | ☁️ **Cloud Architecture**  
+🚀 **Senior Full Stack Product Engineer** | 🦊 **AI & Interactive Systems** | ⚛️ **React & TypeScript** | ⚙️ **Backend & APIs** | ☁️ **Cloud Architecture**  
 
 ---
 ![Fail Fast, Learn Faster](banner.png)
