@@ -1,4 +1,4 @@
-# Hi there, I'm Tony! 👋  
+# Hi there, I'm Tony Lucky! 👋  
 
 🚀 **Senior Full Stack Product Engineer** | 🦊 **AI & Interactive Systems** | ⚛️ **React & TypeScript** | ⚙️ **Backend & APIs** | ☁️ **Cloud Architecture**  
 
@@ -6,6 +6,8 @@
 ![Fail Fast, Learn Faster](banner.png)
 
 ### 🔥 About Me  
+🍀 **Lucky is my family name.** Convenient branding, questionable debugging strategy. I still write tests.  
+
 I build **AI-powered products**, **interactive applications**, and **reliable cloud systems**—taking ideas from prototype to production.
 
 With **10+ years in product engineering**, I turn complex workflows into useful experiences, owning technical design, launch, reliability, and iteration.  
