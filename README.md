@@ -1,4 +1,4 @@
-# Hi there, I'm James! 👋  
+# Hi there, I'm Tony! 👋  
 
 🚀 **Product Engineer** | 🦊 **Passionate about AI & Startups** | ⚛️ **React Enthusiast** | ☁️ **AWS Practitioner**  
 
@@ -28,7 +28,6 @@ Like a fox—**agile, adaptive, and always thinking ahead**—I navigate complex
 ---
 
 ### 📊 GitHub Stats  
-![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=gofoxy&show_icons=true&theme=tokyonight)  
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-luckytony&show_icons=true&theme=tokyonight)  
 
 ![](https://hit.yhype.me/github/profile?account_id=101011021)
-
