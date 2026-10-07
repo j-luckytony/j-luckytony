@@ -1,22 +1,23 @@
 # Hi there, I'm Tony! 👋  
 
-🚀 **Product Engineer** | 🦊 **Passionate about AI & Startups** | ⚛️ **React Enthusiast** | ☁️ **AWS Practitioner**  
+🚀 **Senior Full Stack Product Engineer** | 🦊 **AI & Interactive Systems** | ⚛️ **React & TypeScript** | ☁️ **Cloud Architecture**  
 
 ---
 ![Fail Fast, Learn Faster](banner.png)
 
 ### 🔥 About Me  
-Passionate about **building scalable applications**, **AI-driven solutions**, and **cloud architectures**.
+I build **AI-powered products**, **interactive applications**, and **reliable cloud systems**—taking ideas from prototype to production.
 
-Like a fox—**agile, adaptive, and always thinking ahead**—I navigate complex systems, crafting smart and efficient solutions.  
+With **10+ years in product engineering**, I turn complex workflows into useful experiences, owning technical design, launch, reliability, and iteration.  
 
 ---
 
 ### 🛠️ Tech Stack Highlights  
-- **Frontend:** React, Vue, React Native, Next.js, Angular  
-- **Backend:** Node.js, Go, Python, Ruby on Rails  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
-- **Cloud & DevOps:** AWS, Azure, GCP, CircleCI  
+- **Frontend:** React, Next.js, TypeScript, Redux  
+- **Backend:** Node.js, Python, FastAPI, Go, Java, REST, GraphQL, WebSockets  
+- **AI:** OpenAI, Claude, structured outputs, model orchestration  
+- **Data & Messaging:** PostgreSQL, Redis, Kafka, async queues  
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, CI/CD  
 
 ---
 
